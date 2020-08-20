@@ -1,0 +1,149 @@
+/**
+ * index.scss
+ * - Add any styles you want here!
+ */
+
+body {
+  poxition: relative;
+  background: #f5f5f5;
+  height:850px;
+}
+
+#can1{
+  position: relative;
+  height: 300px;
+  width: 533px;
+  border: 1px solid black;
+  background: #f9faf7;
+  left: 60px;
+  top: 60px;
+}
+#div1 {
+  background: rgba(223, 245, 245, 0.65);
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black;
+  width: 1000px;
+  height: 800px;
+  top: 20px;
+}
+
+#fileB2{
+  right:540px;
+}
+
+#redactorButtons{
+  position:relative;
+  width:120px;
+  height: 160px;
+  left: 620px;
+  bottom: 246px;
+  border: 1px solid black;
+  background:#9fccb9;
+}
+
+.butt {
+  position:relative;
+  bottom: 30px;
+  left:10px;  
+}
+
+#fil {
+  position:relative;
+  text-align:center;
+  height:25px;
+  bottom:20px;
+  background:#85a899;
+  font-size:20px;
+  font-family:sans-serif;
+}
+#fileB2 {
+  position:relative;
+  left:142px;
+  top:7px;
+}
+
+body {
+  background-image: url(https://images.wallpaperscraft.com/image/starry_sky_clouds_sunset_120716_2560x1600.jpg);
+  background-size: 100%;
+  background-attachment: fixed;
+}
+
+#logo {
+  color: white;
+  position: relative;
+  font-size: 100%;
+  border: 3px solid white;
+  width:250px;
+  height:70px;
+  left: 20px;
+  top: 5px;
+}
+
+#header {
+  position:relative;
+  left:10px;
+  bottom:4px;
+  font-family: sans-serif;
+}
+
+#b3 {
+  position:relative;
+  top:-30px;
+}
+
+#b4 {
+  position:relative;
+  top:-30px;
+}
+
+#fileSelector {
+  position:relative;
+  background: #85a899;
+  bottom:107px;
+  height: 60px;
+  width: 533px;
+  left: 60px;
+  border: 1px solid black;
+}
+
+#text1 {
+  position:relative;
+  bottom:28px;
+  left:8px;
+  font-family: sans-serif;
+  width:133px;
+}
+
+#instruction {
+  position:relative;
+  font-family: sans-serif;
+  bottom: 330px;
+  border: 1px solid black;
+  background:#9fccb9;
+  width: 800px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#instrucHeader {
+  position:relative;
+  bottom: 15px;
+  text-decoration: underline;
+  text-align: center;
+}
+
+#fileB3 {
+  position:relative;
+  left: 120px;
+  top: 7px;
+}
+
+#fileB4 {
+  position:relative;
+  left: 120px;
+  top: 7px;
+}
+
